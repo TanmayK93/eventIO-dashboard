@@ -1,6 +1,8 @@
 # eventMe
 
-> My funkadelic Nuxt.js project
+Demo - https://event-2019-io.herokuapp.com/
+
+> My  Nuxt.js project
 
 ## Build Setup
 
